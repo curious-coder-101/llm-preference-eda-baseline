@@ -96,7 +96,7 @@ of writing.
 
 #### Outline of project
 
-- [Data Preparation, EDA, and Baseline Model](notebooks/01_data_preparation_eda.ipynb)
+- [Data Preparation, EDA, and Baseline Model](/01_data_preparation_eda.ipynb)
 
 #### Requirements
 
